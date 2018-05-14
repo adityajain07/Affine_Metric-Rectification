@@ -5,13 +5,15 @@ The input is a projectively distorted image 'floor.jpg', consider central distor
 
 
 ## Affine Rectification
-Affine rectification removes projective distortion in the image i.e. makes the sides parallel which are parallel in the original image. When the image window of 'floor.jpg' pops up when you run the code, select any two pair of parallel lines which are not pointing in the same direction. This can be done by selecting points (in order) like in the below image (but not limited to). 
+Affine rectification removes projective distortion in the image i.e. makes the sides parallel which are parallel in the original image. When the image window of 'floor.jpg' pops up when you run the code, select any two pair of parallel lines which are not pointing in the same direction. This can be done by selecting points (in order) like in the below image (but not limited to):  <br/>
+
+![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/Points_Affine.png)  <br/>
 
 
 
 
 
-Below is the image after applying affine rectification. 
+Below is the image after applying affine rectification:
 ![Affine Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
 
 
@@ -20,10 +22,10 @@ Metric Rectification removes affine distortion in the image i.e. makes the adjac
 
 
 
+![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/Points_Metric.png)  <br/>
+
+Note: The 'small' green circles are NOT the selected points in metric rectification but are the points selected in affine rectification. Since we were printing the selecting points on the image, thus they are a part of the affinely rectified image.
 
 
-
-
-
-Below is the image after applying metric rectification. 
+Below is the image after applying metric rectification:
 ![Metric Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/MetricRectifiedImage.jpg)
