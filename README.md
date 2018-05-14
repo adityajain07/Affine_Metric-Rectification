@@ -26,5 +26,5 @@ Metric Rectification removes affine distortion in the image i.e. makes the adjac
 
 
 <br/>
-Below is the image after applying metric rectification. <br/>
+Below is th image after applying metric rectification. <br/>
 ![Affine Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/MetricRectifiedImage.jpg)
