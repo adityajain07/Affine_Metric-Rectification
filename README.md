@@ -13,7 +13,7 @@ Affine rectification removes projective distortion in the image i.e. makes the s
 
 <br/>
 Below is the image after applying affine rectification. <br/>
-![Affine Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
+![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
 
 
 ## Metric Rectification
