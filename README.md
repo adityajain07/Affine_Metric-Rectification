@@ -1,7 +1,7 @@
 # Affine and Metric Rectification
 The input is a projectively distorted image 'floor.jpg', consider central distorted white square- its sides are no longer parallel and also the adjacent sides are no longer orthogonal. The goal is to first rectify the distorted image upto affine level (i.e make the sides parallel) and then finally rectify it to metric level(i.e make the adjacent sides orthogonal).
 
-![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
+![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/floor.jpg)
 
 
 ## Affine Rectification
@@ -10,8 +10,8 @@ Affine rectification removes projective distortion in the image i.e. makes the s
 
 
 
-<br/>
-Below is the image after applying affine rectification. <br/>
+
+Below is the image after applying affine rectification. 
 ![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
 
 
@@ -25,5 +25,5 @@ Metric Rectification removes affine distortion in the image i.e. makes the adjac
 
 
 <br/>
-Below is the image after applying metric rectification. <br/>
+Below is the image after applying metric rectification. 
 ![Affine Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/MetricRectifiedImage.jpg)
