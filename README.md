@@ -7,7 +7,6 @@ The input is a projectively distorted image 'floor.jpg', consider central distor
 ## Affine Rectification
 Affine rectification removes projective distortion in the image i.e. makes the sides parallel which are parallel in the original image. When the image window of 'floor.jpg' pops up when you run the code, select any two pair of parallel lines which are not pointing in the same direction. This can be done by selecting points (in order) like in the below image (but not limited to). 
 
-<br/>
 
 
 
@@ -20,7 +19,7 @@ Below is the image after applying affine rectification. <br/>
 Metric Rectification removes affine distortion in the image i.e. makes the adjacent sides orthogonal. In the affinely rectified image obtained above, select two pairs of orthogonal lines (Note: The two pair of orthogonal lines should be non-parallel). The lines can be selected by choosing  points (but not limited to) o
 
 
-<br/>
+
 
 
 
