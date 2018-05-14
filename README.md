@@ -12,11 +12,11 @@ Affine rectification removes projective distortion in the image i.e. makes the s
 
 
 Below is the image after applying affine rectification. 
-![AltText](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
+![Affine Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/AffineRectifiedImage.jpg)
 
 
 ## Metric Rectification
-Metric Rectification removes affine distortion in the image i.e. makes the adjacent sides orthogonal. In the affinely rectified image obtained above, select two pairs of orthogonal lines (Note: The two pair of orthogonal lines should be non-parallel). The lines can be selected by choosing  points (but not limited to) o
+Metric Rectification removes affine distortion in the image i.e. makes the adjacent sides orthogonal. In the affinely rectified image obtained above, select two pairs of orthogonal lines (Note: The two pair of orthogonal lines should be non-parallel). The lines can be selected by choosing  points (but not limited to): <br/>
 
 
 
@@ -24,6 +24,6 @@ Metric Rectification removes affine distortion in the image i.e. makes the adjac
 
 
 
-<br/>
+
 Below is the image after applying metric rectification. 
-![Affine Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/MetricRectifiedImage.jpg)
+![Metric Rectification](https://github.com/adityajain07/Affine_Metric-Rectification/blob/master/MetricRectifiedImage.jpg)
